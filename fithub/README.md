@@ -4,7 +4,7 @@
 
 FitHub 幫「有買健身房月票、但常常不知道今天要練什麼」的人：走進健身房打開就有課表可以跟，練完一鍵記錄，月底看得到月票有沒有回本。
 
-- **線上體驗：** [fithub-ten-wheat.vercel.app](https://fithub-ten-wheat.vercel.app)
+- **線上體驗：** [fithub-chogu.vercel.app](https://fithub-chogu.vercel.app)
 - **介紹影片（30 秒）：** [fithub-intro.mp4](fithub-intro.mp4)
 - **開發期間：** 2026/10/21 – 11/17，約 4 週，78 次版本更新
 - **角色：** 一人包辦產品構想、需求定義、設計決策與驗收，以 AI（Claude）作為開發夥伴
